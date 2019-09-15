@@ -49,6 +49,7 @@ allprojects {
 //在application中初始化
  Fiddlor.getinstans().initProxy(this);
 //在需要获取数据的地方：
+实现  接口FiddlerObserver
 ```
 
 Eclipse的用户(赶紧换AS吧):
